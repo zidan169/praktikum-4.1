@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Praktikum 4 .2</title>
+    </head>
+</html>
+<style>
+    body{background-color: yellow;
+        
+    }
+</style>
+<tbody>
+    <table border="" style="background-color:pink">
+        <td width="300">
+            <img src="123.jpeg" width="200">
+        </td>
+        
+        <td width="300">
+        <h1>Profile</h1>
+        <p>Nama : Muhammad Zidan
+            Nim : 0110123216
+Prodi : Sistem Informasi
+Tmpt/Tgl Lahir : jakarta 16 September 2004
+
+        Alamat  : Jl.cipedak v
+Nomor Telpon : 085777379791</p>
+        </td>
+        
+        <td width="300">
+        <img src="" width="100">
+        </td>
+        
+    </table>
+    <br>
+    <h1>
+        Pengalaman singkat
+    </h1>
+    <p>Saat ini saya sedang berkuliah di salah satu kampus yang bernanama STT- NF,saya adalah mahasiswa baru di kampus tersebut.di kampus ini saya mengambil jurusan SISTEM INFORMASI di jurusan ini saya mempelajari banyak hal salah satu nya koding tentang web atau lain nya</p>
+    <br>
+    <table border="" style="background-color:green">
+        <td width="300">
+            <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=jalan%20cipedak%20v%20Jakarta+()&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href='https://maps-generator.com/'>Maps Generator</a>
+
+        </td>
+        
+        <td width="300">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jia3fhBQ8qI?si=tS4df7usj8For-oL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
+        <td width="300">
+            <img src="WhatsApp Image 2023-11-01 at 05.40.35.jpeg" alt="" width="250" height="250">
+        </td>
+        
+    </table>
+</tbody>
